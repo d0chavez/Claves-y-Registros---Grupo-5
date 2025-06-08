@@ -11,9 +11,16 @@ class Program
 {
     static List<Persona> personas = new List<Persona>
     {
-        new Persona { IdEmpleado = 101, Nombre = "Alice" },
-        new Persona { IdEmpleado = 102, Nombre = "Bob" },
-        new Persona { IdEmpleado = 103, Nombre = "Charlie" }
+        new Persona { IdEmpleado = 101, Nombre = "Alice Johnson" },
+        new Persona { IdEmpleado = 102, Nombre = "Bob Miller" },
+        new Persona { IdEmpleado = 103, Nombre = "Charlie Chaplin" },
+        new Persona { IdEmpleado = 104, Nombre = "Darwin Chavez" },
+        new Persona { IdEmpleado = 105, Nombre = "Eliza Sorto" },
+        new Persona { IdEmpleado = 106, Nombre = "Ronny Said" },
+        new Persona { IdEmpleado = 107, Nombre = "Claudio Perez" },
+        new Persona { IdEmpleado = 108, Nombre = "Hugo Chavez" },
+        new Persona { IdEmpleado = 109, Nombre = "Albert Martinez" }
+
     };
 
     static void Main()
